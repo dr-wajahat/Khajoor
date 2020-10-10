@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+void IA()
+{
+	for(int i=0;i<7;i++)
+	cout<<"******** Mere Naal Weya Kr Ley"<<endl;
+	cout<<endl;
+}
+
+int main ()
+{
+	IA();
+	for (int i=0;i<5;i++)
+		cout<<"I love Pakistan."<<endl;
+	cout<<endl;
+	IA();
+}
