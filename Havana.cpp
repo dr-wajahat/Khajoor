@@ -5,7 +5,7 @@ using namespace std;
 void IA()
 {
 	for(int i=0;i<7;i++)
-	cout<<"******** Mere Naal Weya Kr Ley"<<endl;
+	cout<<"******** Mere Naal Weya Kr Ley ********"<<endl;
 	cout<<endl;
 }
 
