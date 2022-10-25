@@ -9,11 +9,16 @@ void IA()
 	cout<<endl;
 }
 
-int main ()
-{
-	IA();
+void body()
+{	
 	for (int i=0;i<5;i++)
 		cout<<"I love Pakistan."<<endl;
 	cout<<endl;
+	}
+
+int main ()
+{
+	IA();
+	 body();
 	IA();
 }
